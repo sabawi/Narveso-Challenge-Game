@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/sabawi/Development/ode/include/ode/*",
+                "/home/sabawi/Development/ode/include",
+                "/home/sabawi/Development/SDL/include",
+                "/home/sabawi/Development/SDL/include/SDL3",
+                "/home/sabawi/Development/narveso2_backup_06142009/include"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
